@@ -34,5 +34,5 @@ r = int(input())
 uclid = round(r**2*pi, 6)
 taxi = 2*r**2
 
-print("%10.6f" % uclid) # "%10.nf"%변수 >> 소수점 아래 n자리 만큼 빈자리 소수점 채워주기
+print("%10.6f" % uclid)  # "%10.nf"%변수 >> 소수점 아래 n자리 만큼 빈자리 소수점 채워주기
 print("%10.6f" % taxi)
